@@ -5,10 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/sample_racetrack_01.unity
-    guid: 12b601b625446234ba8e1a782138cd69
+    path: Assets/_Speedbound/Scenes/Main.unity
+    guid: 138919c2ef657491cbb27adf1faca836
+  - enabled: 1
+    path: Assets/_Speedbound/Scenes/Race.unity
+    guid: 1158c9dca8aceec48b930d174e04d8a5
   m_configObjects: {}
