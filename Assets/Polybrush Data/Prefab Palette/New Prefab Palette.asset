@@ -13,7 +13,8 @@ MonoBehaviour:
   m_Name: New Prefab Palette
   m_EditorClassIdentifier: 
   prefabs:
-  - gameObject: {fileID: 3409246791302219536, guid: c93eeb876c4254f4aa00b57bb2f08489, type: 3}
+  - gameObject: {fileID: 3409246791302219536, guid: c93eeb876c4254f4aa00b57bb2f08489,
+      type: 3}
     settings:
       m_Strength: 50
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
@@ -29,7 +30,8 @@ MonoBehaviour:
       m_YScaleBool: 0
       m_ZScaleBool: 0
     name: sb_conifer_01 (1)
-  - gameObject: {fileID: 8015102984869640553, guid: c243eb96fde910a4faa8d080ce1773c4, type: 3}
+  - gameObject: {fileID: 8015102984869640553, guid: c243eb96fde910a4faa8d080ce1773c4,
+      type: 3}
     settings:
       m_Strength: 80.8
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
@@ -45,3 +47,71 @@ MonoBehaviour:
       m_YScaleBool: 1
       m_ZScaleBool: 1
     name: sb_broadleaf_01 (1)
+  - gameObject: {fileID: 2860500403416692673, guid: bd66b179ec069b94190acfbc208586b1,
+      type: 3}
+    settings:
+      m_Strength: 50
+      m_RotationRangeMin: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
+      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
+      m_UniformScale: {x: 1, y: 1}
+      m_UniformBool: 1
+      m_XRotationBool: 1
+      m_YRotationBool: 0
+      m_ZRotationBool: 1
+      m_XScaleBool: 1
+      m_YScaleBool: 1
+      m_ZScaleBool: 1
+    name: sb_barrel_left_curve
+  - gameObject: {fileID: 2537386945188492685, guid: 9b59e3c577ebb79438e8640d5b690bbc,
+      type: 3}
+    settings:
+      m_Strength: 50
+      m_RotationRangeMin: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
+      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
+      m_UniformScale: {x: 1, y: 1}
+      m_UniformBool: 1
+      m_XRotationBool: 1
+      m_YRotationBool: 0
+      m_ZRotationBool: 1
+      m_XScaleBool: 1
+      m_YScaleBool: 1
+      m_ZScaleBool: 1
+    name: sb_barrel_right_curve
+  - gameObject: {fileID: 8015102984869640553, guid: c243eb96fde910a4faa8d080ce1773c4,
+      type: 3}
+    settings:
+      m_Strength: 50
+      m_RotationRangeMin: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
+      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
+      m_UniformScale: {x: 1, y: 1}
+      m_UniformBool: 1
+      m_XRotationBool: 1
+      m_YRotationBool: 0
+      m_ZRotationBool: 1
+      m_XScaleBool: 1
+      m_YScaleBool: 1
+      m_ZScaleBool: 1
+    name: sb_broadleaf_01 (1)
+  - gameObject: {fileID: 3409246791302219536, guid: c93eeb876c4254f4aa00b57bb2f08489,
+      type: 3}
+    settings:
+      m_Strength: 24.6
+      m_RotationRangeMin: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
+      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
+      m_UniformScale: {x: 1, y: 1}
+      m_UniformBool: 1
+      m_XRotationBool: 1
+      m_YRotationBool: 0
+      m_ZRotationBool: 1
+      m_XScaleBool: 1
+      m_YScaleBool: 1
+      m_ZScaleBool: 1
+    name: sb_conifer_01 (1)
