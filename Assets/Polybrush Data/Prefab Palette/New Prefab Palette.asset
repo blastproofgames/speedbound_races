@@ -16,19 +16,19 @@ MonoBehaviour:
   - gameObject: {fileID: 3409246791302219536, guid: c93eeb876c4254f4aa00b57bb2f08489,
       type: 3}
     settings:
-      m_Strength: 50
+      m_Strength: 39.25
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
-      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 360, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
       m_ScaleRangeMax: {x: 1, y: 1, z: 1}
       m_UniformScale: {x: 1, y: 1}
       m_UniformBool: 0
-      m_XRotationBool: 0
-      m_YRotationBool: 0
-      m_ZRotationBool: 0
-      m_XScaleBool: 0
-      m_YScaleBool: 0
-      m_ZScaleBool: 0
+      m_XRotationBool: 1
+      m_YRotationBool: 1
+      m_ZRotationBool: 1
+      m_XScaleBool: 1
+      m_YScaleBool: 1
+      m_ZScaleBool: 1
     name: sb_conifer_01 (1)
   - gameObject: {fileID: 8015102984869640553, guid: c243eb96fde910a4faa8d080ce1773c4,
       type: 3}

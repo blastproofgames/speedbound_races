@@ -29,11 +29,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _AlbedoTexture3:
-        m_Texture: {fileID: 2800000, guid: fe6a80b520ad53943a158d19918bb52d, type: 3}
+        m_Texture: {fileID: 2800000, guid: db7ec37315dfdb8488bcf739a0e9ebaa, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _AlbedoTexture4:
-        m_Texture: {fileID: 2800000, guid: 680e7a7560bcef54689a28f74eebb078, type: 3}
+        m_Texture: {fileID: 2800000, guid: 85c2ec22488012047995d9e9da1485aa, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BaseMap:

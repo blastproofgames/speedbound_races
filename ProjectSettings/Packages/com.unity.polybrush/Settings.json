@@ -106,12 +106,12 @@
             {
                 "type": "UnityEditor.Polybrush.PrefabLoadout, Unity.Polybrush.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
                 "key": "ScatteringEditor.userLoadout",
-                "value": "{\"m_Value\":{\"infos\":[{\"palette\":{\"fileID\":11400000,\"guid\":\"7c95cea4a92c1544b94dd864df9f3bfb\",\"type\":2},\"prefab\":{\"fileID\":3409246791302219536,\"guid\":\"c93eeb876c4254f4aa00b57bb2f08489\",\"type\":3}}]}}"
+                "value": "{\"m_Value\":{\"infos\":[{\"palette\":{\"fileID\":11400000,\"guid\":\"4edf5f542f0b1c649b62bd18095903d7\",\"type\":2},\"prefab\":{\"fileID\":8015102984869640553,\"guid\":\"c243eb96fde910a4faa8d080ce1773c4\",\"type\":3}},{\"palette\":{\"fileID\":11400000,\"guid\":\"4edf5f542f0b1c649b62bd18095903d7\",\"type\":2},\"prefab\":{\"fileID\":3409246791302219536,\"guid\":\"c93eeb876c4254f4aa00b57bb2f08489\",\"type\":3}}]}}"
             },
             {
                 "type": "UnityEngine.Polybrush.PolyDirection, Unity.Polybrush, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
                 "key": "RaiseLowerBrush.Direction",
-                "value": "{\"m_Value\":0}"
+                "value": "{\"m_Value\":4}"
             },
             {
                 "type": "UnityEngine.Polybrush.PolyDirection, Unity.Polybrush, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -121,7 +121,7 @@
             {
                 "type": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
                 "key": "RaiseLowerBrush.Strength",
-                "value": "{\"m_Value\":5.0}"
+                "value": "{\"m_Value\":50.0}"
             },
             {
                 "type": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
