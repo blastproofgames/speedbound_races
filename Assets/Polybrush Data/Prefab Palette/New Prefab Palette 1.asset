@@ -16,12 +16,12 @@ MonoBehaviour:
   - gameObject: {fileID: 8015102984869640553, guid: c243eb96fde910a4faa8d080ce1773c4,
       type: 3}
     settings:
-      m_Strength: 99
+      m_Strength: 20
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
       m_RotationRangeMax: {x: 0, y: 360, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
       m_ScaleRangeMax: {x: 2.3754647, y: 2.3754647, z: 2.33829}
-      m_UniformScale: {x: 1.2021858, y: 2.4043717}
+      m_UniformScale: {x: 0.5, y: 2}
       m_UniformBool: 1
       m_XRotationBool: 0
       m_YRotationBool: 1
@@ -33,12 +33,12 @@ MonoBehaviour:
   - gameObject: {fileID: 3409246791302219536, guid: c93eeb876c4254f4aa00b57bb2f08489,
       type: 3}
     settings:
-      m_Strength: 96.6
+      m_Strength: 30
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
       m_RotationRangeMax: {x: 0, y: 360, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
       m_ScaleRangeMax: {x: 2.747212, y: 2.486989, z: 2.3011153}
-      m_UniformScale: {x: 1, y: 1.765027}
+      m_UniformScale: {x: 0.5, y: 2}
       m_UniformBool: 1
       m_XRotationBool: 0
       m_YRotationBool: 1
@@ -47,3 +47,20 @@ MonoBehaviour:
       m_YScaleBool: 0
       m_ZScaleBool: 0
     name: sb_conifer_01 (1)
+  - gameObject: {fileID: 8911751793825020148, guid: 36412d9b0cbf67c4f931de5b7802f1ef,
+      type: 3}
+    settings:
+      m_Strength: 30
+      m_RotationRangeMin: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
+      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
+      m_UniformScale: {x: 0.6153846, y: 1.5}
+      m_UniformBool: 1
+      m_XRotationBool: 0
+      m_YRotationBool: 1
+      m_ZRotationBool: 0
+      m_XScaleBool: 0
+      m_YScaleBool: 0
+      m_ZScaleBool: 0
+    name: sb_autumn_trees_01
